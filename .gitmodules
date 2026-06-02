@@ -1,3 +1,6 @@
 [submodule "Sonic.EXE-FPSPlus"]
 	path = Sonic.EXE-FPSPlus
 	url = https://github.com/KittySleeper/Sonic.EXE-FPSPlus
+[submodule "Vs-Whitty-FPSPlus"]
+	path = Vs-Whitty-FPSPlus
+	url = https://github.com/KittySleeper/Vs-Whitty-FPSPlus
