@@ -4,3 +4,6 @@
 [submodule "Vs-Whitty-FPSPlus"]
 	path = Vs-Whitty-FPSPlus
 	url = https://github.com/KittySleeper/Vs-Whitty-FPSPlus
+[submodule "Kitty-Utils-FPSPlus"]
+	path = Kitty-Utils-FPSPlus
+	url = https://github.com/KittySleeper/Kitty-Utils-FPSPlus
